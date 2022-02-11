@@ -13,7 +13,7 @@ We provide links to two papers we used in our study with all Paper Plain feature
 * [Percutaneous endoscopic lumbar discectomy compared with other surgeries for lumbar discherniation](https://s2-reader.tala-s2-simplify.apps.allenai.org/?file=/paper/LDH_surgery.pdf&p=1111)
 
 ## Backend
-TBD: `backend/` includes scripts and notebooks for running models for powering Paper Plain's features
+`backend/` includes scripts and notebooks for running models for powering Paper Plain's features
 
 ## UI
 TBD: `ui/` includes implementation of the interface with Paper Plain's features
