@@ -25,7 +25,7 @@ If you use our work, please cite our preprint
 ```
 @misc{august-2022-paper-plain,
     title={Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing},
-    author={Tal August, Lucy Lu Wang, Jonathan Bragg, Marti Hearst, Andrew Head, and Kyle Lo},
+    author={Tal August, Lucy Lu Wang, Jonathan Bragg, Marti A. Hearst, Andrew Head, and Kyle Lo},
     year={2022},
     eprint={},
     archivePrefix={arXiv},
